@@ -1,4 +1,3 @@
-# dashboard-adventureworks-sales-profit
 # Adventure Works Sales & Return Performance Dashboard
 
 ## Tools
