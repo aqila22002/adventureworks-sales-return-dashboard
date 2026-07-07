@@ -1,4 +1,8 @@
 # Adventure Works Sales & Return Performance Dashboard
+![Dashboard Preview](images/dashboard.png)
+
+## Overview
+This project presents an interactive Power BI dashboard to analyze sales performance using the Superstore dataset. The dashboard helps identify sales trends, product performance, customer behavior, and regional performance to support data-driven business decisions.
 
 ## Tools
 - Power BI
